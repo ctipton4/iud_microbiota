@@ -1,0 +1,16 @@
+ID,Load,Date of procedure,age,Ht,Wt,BMI,Ethnicity,Gravida,Parity,date IUD placed,Brand,Bleeding,PelvicPain,DeviceComplication,ExpiredIUD,HxVaginitis,ToConcieve,Other,Complaints,Date samples shipped,Group
+IUD 1,NA,3/7/2019,38,65,127.6,21.23,White,0,0,1/1/2017,Mirena,1,1,0,0,1,0,0,2,3/7/2019,Abnormal
+IUD 3,5.35E+08,3/18/2019,38,62,152,27.8,Hispanic,3,3,10/2/2013,Mirena,0,1,0,1,0,0,0,1,3/18/2019,Abnormal
+IUD 5,1.10E+06,3/20/2019,45,68,161,24.49,Hispanic,3,3,2/8/2017,Skyla,1,0,0,0,0,0,1,2,3/21/2019,Abnormal
+IUD 7,NA,3/25/2019,35,62,128,23.45,Hispanic,2,2,8/31/2017,Skyla,0,1,0,0,0,0,0,1,3/25/2019,Abnormal
+IUD 9,1.33E+07,3/27/2019,40,61,174,32.87,Hispanic,3,3,11/8/2017,Mirena,0,1,1,0,0,0,1,2,3/28/2019,Abnormal
+IUD 13,NA,4/30/2019,31,64,210,36.32,Hispanic,1,1,8/1/2011,Mirena,0,1,1,1,0,0,1,2,4/30/2019,Abnormal
+IUD 15,2.32E+06,10/10/2019,22,66,172.6,27.86,Hispanic,4,3,4/1/2018,Lyletta,1,0,1,0,1,0,1,3,10/10/2019,Abnormal
+IUD 2,2.02E+05,2/11/2019,26,64,139,22.62,Hispanic,2,2,4/1/2016,Lyletta,0,0,0,1,1,0,0,1,2/11/2019,Normal
+IUD 4,1.10E+06,2/13/2019,28,62,132,24.14,Hispanic,1,1,6/30/2005,Paraguard,0,0,0,1,0,0,0,0,2/13/2019,Normal
+IUD 6,1.34E+07,2/21/2019,32,64,180,31.03,Black,2,1,5/1/2017,Skyla,0,0,0,0,0,1,0,0,2/21/2019,Normal
+IUD 8,3.08E+06,2/26/2019,34,65,139.6,23.23,Hispanic,2,2,4/1/2014,Mirena,0,0,0,1,0,0,0,0,2/26/2019,Normal
+IUD 10,1.28E+07,4/1/2019,29,63,221,39.14,White,1,1,8/1/2014,Mirena,0,0,0,0,0,1,0,0,4/1/2019,Normal
+IUD 12,5.57E+04,7/9/2019,20,68,197,29.95,Hispanic,1,1,5/1/2017,Kyleena,0,0,0,0,0,1,0,0,7/9/2019,Normal
+IUD 14,2.44E+04,7/9/2019,25,60,155,30.31,Hispanic,2,2,12/13/2017,Mirena,0,0,0,0,0,0,1,1,7/9/2019,Normal
+IUD 16,2.18E+04,7/18/2019,26,63,169,29.97,Hispanic,1,1,2/28/2018,Mirena,0,0,0,0,0,1,1,1,7/18/2019,Normal
